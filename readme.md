@@ -1,4 +1,4 @@
-# Привет, я Georg! 👨‍💻
+# Привет, я George! 👨‍💻
 
 [![GitHub](https://img.shields.io/badge/-@Mr--int-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mr-int)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=about.me&logoColor=white)](https://ваш-сайт.xyz)
