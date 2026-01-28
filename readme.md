@@ -4,6 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=about.me&logoColor=white)](https://ваш-сайт.xyz)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=181717&center=true&vCenter=true&width=435&lines=Чистый+код;Поддерживаемый+код;Постоянное+развитие;Понятный+код)
+![Coding Animation](https://gifs.ru/embed/2750)
 
 ## 🛠️ Мой стек технологий
 ### 🌐 **Frontend**
