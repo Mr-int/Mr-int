@@ -1,9 +1,6 @@
 # Привет, я Georg! 👨‍💻
 
 [![GitHub](https://img.shields.io/badge/-@Mr--int-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mr-int)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ваш_username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ваш.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-profil)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=about.me&logoColor=white)](https://ваш-сайт.xyz)
 
 ## 🚀 Обо мне
