@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/-@Mr--int-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mr-int)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=about.me&logoColor=white)](https://ваш-сайт.xyz)
 
-![721579529e37effcd53f7a3db4259a4e](https://github.com/user-attachments/assets/c28fc54f-6587-4587-a38d-11c03847e092)
+![721579529e37effcd53f7a3db4259a4e](https://github.com/Mr-int/Mr-int/blob/master/assets/Zetsubou.gif?raw=true)
 
 ## 🛠️ Мой стек технологий
 ### 🌐 **Frontend**
