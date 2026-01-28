@@ -3,8 +3,6 @@
 [![GitHub](https://img.shields.io/badge/-@Mr--int-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mr-int)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=about.me&logoColor=white)](https://ваш-сайт.xyz)
 
-## 🚀 Обо мне
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=181717&center=true&vCenter=true&width=435&lines=Чистый+код;Поддерживаемый+код;Постоянное+развитие;Понятный+код)
 
 ## 🛠️ Мой стек технологий
